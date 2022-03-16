@@ -1,0 +1,49 @@
+.background{
+    background-color: rgb(41, 37, 37);
+    padding: 175px;
+    text-align: center;
+}
+.content-mid{
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 240px;
+    height: 400px;
+    text-align: center;
+    margin-left: 450px; 
+}
+.tittel{
+    color: wheat;
+}
+.input{
+    color: rgb(41, 41, 61);
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+}
+.btn{
+    margin-left: 5px;
+    border-radius: 5px;
+    font-size: 14px;
+    border: none;
+    color: red;
+}
+.btn:hover{
+    background-color: green;
+    color: white;
+}
+.item ul{
+    color: aqua;
+    list-style: none;
+    text-align: left;
+    text-transform: uppercase;
+}
+.remove{
+    font-size: 18px;
+    cursor: pointer;
+    border: 2px solid #fff;
+    border-radius: 10px;
+}
+.remove:hover{
+    background-color: red;
+}
